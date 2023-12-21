@@ -1,0 +1,13 @@
+{
+  "numero": 42,
+  "cadena": "Hola, mundo!",
+  "booleano": true,
+  "matriz": [1, 2, 3, 4, 5],
+  "objeto": {
+    "clave1": "valor1",
+    "clave2": 123,
+    "clave3": false
+  },
+  "array": ["rojo", "verde", "azul", 10, true],
+  "nulo": null
+}
